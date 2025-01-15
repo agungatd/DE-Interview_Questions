@@ -1,5 +1,3 @@
-**Repository Description:**
-
 Welcome to the **Data Engineering Interview Questions** repository! This is a comprehensive collection of commonly asked interview questions, coding challenges, and practical scenarios for aspiring and experienced data engineers. Whether you're preparing for your next job interview or looking to sharpen your skills, this repository covers a wide range of topics, including:
 
 - **Data Modeling and Database Design**
