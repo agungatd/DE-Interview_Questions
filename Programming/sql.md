@@ -32,6 +32,8 @@ HAVING COUNT(*) > 1;
 
 ## 2. How would you calculate the Month-over-Month growth rate for orders? Write a query using the orders table with columns (order_date, order_amount)
 
+[DDL](./sql/ddl/Q2.sql)
+
 ```sql
 SELECT 
     DATE_FORMAT(order_date, '%Y-%m') as month,
